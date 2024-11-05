@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": null,
+      "empId": 1,
+      "name": "Meerasa",
+      "city": "TVL",
+      "address": "Palay",
+      "contactNo": "7890654356",
+      "emailId": "meerasa@gmail.com",
+      "pinCode": "627002",
+      "state": "TN"
+    },
+    {
+      "id": null,
+      "empId": 2,
+      "name": "Ariram",
+      "city": "Tenkasi",
+      "address": "Pungampati",
+      "contactNo": "678905456798",
+      "emailId": "ariram@gmail.com",
+      "pinCode": "627401",
+      "state": "TN"
+    },
+    {
+      "id": null,
+      "empId": 3,
+      "name": "",
+      "city": "",
+      "address": "",
+      "contactNo": "",
+      "emailId": "",
+      "pinCode": "",
+      "state": ""
+    },
+    {
+      "id": null,
+      "empId": 4,
+      "name": null,
+      "city": null,
+      "address": null,
+      "contactNo": null,
+      "emailId": null,
+      "pinCode": null,
+      "state": null
+    }
+  ]
+}
